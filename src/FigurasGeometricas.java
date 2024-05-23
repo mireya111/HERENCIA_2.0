@@ -20,4 +20,5 @@ public class FigurasGeometricas {
     public void setnLados(int nLados) {
         this.nLados = nLados;
     }
+    //Ejemplo cambio
 }
