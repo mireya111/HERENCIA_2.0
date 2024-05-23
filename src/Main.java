@@ -39,6 +39,8 @@ public class Main {
         System.out.println("El area es: ");
         System.out.println(mifuguras6.calcularArea());
         System.out.println("Hola");
+        Hola hola1 = new Hola("Maria", 12,23.4);
+        System.out.println(hola1.getNombre());
         //hOLA CAMBIO 1176357653
     }
 }
