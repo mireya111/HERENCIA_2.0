@@ -36,6 +36,6 @@ public class Main {
 
         System.out.println("El area es: ");
         System.out.println(mifuguras6.calcularArea());
-        //hOLA CAMBIO 1
+        //hOLA CAMBIO 1176357653
     }
 }
