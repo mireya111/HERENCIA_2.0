@@ -41,6 +41,8 @@ public class Main {
         System.out.println("Hola");
         Hola hola1 = new Hola("Maria", 12,23.4);
         System.out.println(hola1.getNombre());
+        System.out.println(hola1.getEdad());
+        System.out.println("Hola x2");
         //hOLA CAMBIO 1176357653
     }
 }
