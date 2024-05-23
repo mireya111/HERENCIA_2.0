@@ -1,3 +1,5 @@
+import java.sql.SQLOutput;
+
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
@@ -36,6 +38,7 @@ public class Main {
 
         System.out.println("El area es: ");
         System.out.println(mifuguras6.calcularArea());
+        System.out.println("Hola");
         //hOLA CAMBIO 1176357653
     }
 }
